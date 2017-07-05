@@ -1,0 +1,20 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/AmberActionBar</item>
+	</style>
+
+    <style name="AmberActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/primary_dark</item>
+        <item name="android:actionMenuTextAppearance">@style/MyTextStyle</item>
+    </style>
+
+    <style name="MyTextStyle"
+        parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+</resources>

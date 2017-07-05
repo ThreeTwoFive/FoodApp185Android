@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucsb.cs.cs185.frickenhamster.food.history.VisualizeActivity">
+    <item android:id="@+id/action_week" android:title="Last 7 days"
+        android:orderInCategory="100" android:showAsAction="never" android:onClick="set7days" />
+    <item android:id="@+id/action_2weeks" android:title="Last 2 Weeks"
+        android:orderInCategory="100" android:showAsAction="never" android:onClick="set2weeks" />
+    <item android:id="@+id/action_month" android:title="Last Month"
+        android:orderInCategory="100" android:showAsAction="never" android:onClick="set1month" />
+    <item android:id="@+id/action_forever" android:title="All Time"
+        android:orderInCategory="100" android:showAsAction="never" android:onClick="allTime" />
+
+</menu>

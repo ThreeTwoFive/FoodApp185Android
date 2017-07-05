@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="primary" type="color">#FFC107</item>
+    <item name="primary_dark" type="color">#FFA000</item>
+    <item name="primary_pressed" type="color">#FF8F00</item>
+    <item name="hamburger" type="color">#3e2723</item>
+    <item name="pizza" type="color">#f4511e</item>
+    <item name="steak" type="color">#5d4037</item>
+    <item name="pancakes" type="color">#ffe57f</item>
+
+
+</resources>

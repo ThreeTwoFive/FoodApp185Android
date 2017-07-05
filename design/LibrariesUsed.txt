@@ -1,0 +1,8 @@
+The libraries below were used in the project.
+All of them are publicaly available and the
+source codes can be found on github.
+
+http://www.joda.org/joda-time/
+https://github.com/PhilJay/MPAndroidChart
+https://github.com/Diolor/Swipecards
+http://jakewharton.github.io/butterknife/

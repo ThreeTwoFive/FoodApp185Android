@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucsb.cs.cs185.frickenhamster.food.history.HistoryActivity">
+
+    <item android:id="@+id/action_visualize"
+        android:title="@string/action_visualize"
+        android:icon="@drawable/chart_bar_down"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/action_delete_all"
+        android:title="@string/action_delete_all"
+        android:icon="@drawable/trash"
+        android:showAsAction="always" />
+</menu>
